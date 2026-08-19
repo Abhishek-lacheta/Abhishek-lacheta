@@ -23,5 +23,6 @@ I'm a Mobile Developer with ~2 years of experience building cross-platform and n
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** YOUR_LINKEDIN_URL
-- **Email:** YOUR_EMAIL
+- **LinkedIn:** linkedin.com/in/abhishek-lacheta-87635b320
+- **Email:** abhishek.lacheta.dev@gmail.com
+- **Contact No:** 9109452170

@@ -30,7 +30,7 @@ I mainly work with **Flutter and Dart**, and I also have experience with **React
 
 ## 🚀 Projects I've Worked On
 
-### 🎬 StreamVibe — Video Streaming Platform
+### Video Streaming Platform
 
 **Flutter | Dart | BLoC | REST APIs | Firebase | Razorpay**
 

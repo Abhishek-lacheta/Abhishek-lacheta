@@ -1,45 +1,52 @@
 # Hi, I'm Abhishek Lacheta 👋
 
-**Mobile Developer | Flutter | Dart | React Native | Android | Firebase**
+****Mobile Developer | Flutter | React Native | Android | 2+ Years | Dart | BLoC | Firebase | REST APIs****
 
-I'm a Mobile Developer with ~2 years of experience building cross-platform and native mobile applications.
+I'm a mobile developer with 2+ years of experience working on cross-platform and native mobile applications.
 
-### 🚀 Tech Stack
+I mainly work with **Flutter and Dart**, and I also have experience with **React Native, Android/Kotlin, Firebase, REST APIs, and AI integrations**.
 
-- **Flutter & Dart**
-- **React Native**
-- **Android & Kotlin**
-- **Firebase**
-- **REST APIs**
-- **Git & GitHub**
+## 🛠️ Skills
 
-### 💼 What I Work On
+* Flutter & Dart
+* BLoC / State Management
+* REST APIs
+* Firebase & Cloud Firestore
+* React Native & Expo
+* Android & Kotlin
+* Git & GitHub
+* AI API Integration
 
-- 📱 Cross-platform mobile applications
-- 🔥 Firebase integrations
-- 🌐 REST API integrations
-- 🤖 AI-powered mobile features
-- 🛠️ Android SDK & Google Play compliance
+## 💼 What I Work With
 
-## 🚀 Featured Projects
+* Building mobile apps with Flutter
+* Creating responsive and reusable UI
+* Connecting apps with REST APIs
+* Working with Firebase Authentication and Firestore
+* Managing application state with BLoC
+* Integrating AI features into mobile apps
+* Android development and SDK upgrades
+* Preparing apps for Google Play deployment
+
+## 🚀 Projects I've Worked On
 
 ### 🎬 StreamVibe — Video Streaming Platform
 
 **Flutter | Dart | BLoC | REST APIs | Firebase | Razorpay**
 
-A Flutter-based video streaming application developed as part of professional experience. Worked on responsive UI, API integration, application state management, Firebase integration and payment-related functionality.
+A video streaming application I worked on using Flutter. My work included UI development, API integration, state management, Firebase integration, and payment-related functionality.
 
-🔒 **Source code is private due to company/project confidentiality.**
+🔒 **Source code is private because this is a company/client project.**
 
 ---
 
-### 💬 AI-Powered Real-Time Chat Application
+### 💬 AI-Powered Chat Application
 
 **React Native | Expo | Redux | Firebase | Mistral AI**
 
-A React Native chat application featuring AI-powered message suggestions and translation capabilities. Implemented application state management, AI service integration and Firebase Remote Config-based feature control.
+A chat application with AI-powered message suggestions and translation features. I worked on the chat experience, state management, AI integration, and Firebase Remote Config for controlling AI features.
 
-🔒 **Source code is private due to company/project confidentiality.**
+🔒 **Source code is private because this is a company/client project.**
 
 ---
 
@@ -47,19 +54,19 @@ A React Native chat application featuring AI-powered message suggestions and tra
 
 **Flutter | Dart | REST APIs | Firebase**
 
-A multi-role mobile application designed for pet care and service booking workflows. Worked on user-facing interfaces, service flows, API integration and application functionality across different user roles.
+A mobile application for pet care and service booking. The application supports different user roles and booking-related workflows.
 
-🔒 **Source code is private due to company/project confidentiality.**
+🔒 **Source code is private because this is a company/client project.**
 
 ---
 
-### 📡 RFID-Based Sales & Order Management Application
+### 📡 RFID Sales & Order Management App
 
 **Android | Kotlin | RFID | REST APIs**
 
-An Android application developed for RFID-based scanning and sales/order management workflows. Worked on Android UI, RFID integration, API communication and order-related application flows.
+An Android application involving RFID scanning and sales/order management. I worked on Android UI, RFID integration, API communication, and order-related functionality.
 
-🔒 **Source code is private due to company/project confidentiality.**
+🔒 **Source code is private because this is a company/client project.**
 
 ---
 
@@ -67,16 +74,25 @@ An Android application developed for RFID-based scanning and sales/order managem
 
 **Flutter | Dart | REST APIs | Firebase**
 
-A mobile application focused on digital energy distribution and operational management workflows. Worked on application UI, API integration, data handling and mobile application functionality.
+A mobile application for managing digital energy distribution workflows. My work included UI development, API integration, data handling, and other mobile application features.
 
-🔒 **Source code is private due to company/project confidentiality.**
+🔒 **Source code is private because this is a company/client project.**
 
 ---
 
-> **Note:** Some projects listed above were developed as part of professional/client work. Their source code is intentionally not publicly available due to confidentiality and intellectual-property restrictions. Technical details are described at a high level without exposing proprietary code, credentials, APIs or business logic.
+> **Note:** Some of the projects listed above were developed as part of professional/client work. Their source code cannot be shared publicly due to confidentiality and intellectual-property restrictions.
 
-### 📫 Connect With Me
+## 📌 Currently Learning & Improving
 
-- **LinkedIn:** linkedin.com/in/abhishek-lacheta-87635b320
-- **Email:** abhishek.lacheta.dev@gmail.com
-- **Contact No:** 9109452170
+* Advanced Flutter development
+* BLoC and application architecture
+* Firebase
+* REST API integration
+* React Native
+* AI integration in mobile applications
+
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [Abhishek Lacheta](https://linkedin.com/in/abhishek-lacheta-87635b320)
+* 📧 **Email:** [abhishek.lacheta.dev@gmail.com](mailto:abhishek.lacheta.dev@gmail.com)
+* 🐙 **GitHub:** [Abhishek-lacheta](https://github.com/Abhishek-lacheta)

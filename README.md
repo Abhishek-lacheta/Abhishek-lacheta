@@ -82,6 +82,12 @@ A mobile application for managing digital energy distribution workflows. My work
 
 > **Note:** Some of the projects listed above were developed as part of professional/client work. Their source code cannot be shared publicly due to confidentiality and intellectual-property restrictions.
 
+## 📱 Demo Apps
+
+A collection of Android APKs from my personal learning and demo projects.
+
+[📲 Explore Demo APKs] https://drive.google.com/drive/folders/1fq-zwABAte_7s7VP-LwN5pdQ1qhgT-O8?usp=sharing
+
 ## 📌 Currently Learning & Improving
 
 * Advanced Flutter development
